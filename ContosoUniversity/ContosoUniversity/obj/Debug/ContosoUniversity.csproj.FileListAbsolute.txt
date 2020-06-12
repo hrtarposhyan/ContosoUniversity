@@ -77,3 +77,7 @@ C:\Users\Hrachya\source\repos\ContosoUniversity\ContosoUniversity\ContosoUnivers
 C:\Users\Hrachya\source\repos\ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.CopyComplete
 C:\Users\Hrachya\source\repos\ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
 C:\Users\Hrachya\source\repos\ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+C:\Users\Hrachya\source\repos\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
+C:\Users\Hrachya\source\repos\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+C:\Users\Hrachya\source\repos\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
+C:\Users\Hrachya\source\repos\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
